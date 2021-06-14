@@ -1,3 +1,6 @@
+# _Разрешения (Permissions)_
+* DI.PluginsManager
+
 # _Вызов команды_
 * /dipm
 * /DIPluginsManager
