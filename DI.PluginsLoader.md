@@ -1,12 +1,13 @@
-# /dipm
-# /DIPluginsManager
+# Способ вызова команды
+* /dipm
+* /DIPluginsManager
 
-## LOAD
+# Параметры команды
 
-### all 
-Загрузить все выгруженные плагины.
-Пример: /dipm all
-
-### PluginName
-Загрузить опредленный, выгруженный плагин.
-Пример: /dipm load DI.RPChat
+* LOAD
+  1. all
+     Загрузить все выгруженные плагины.
+     Пример: /dipm all
+  2. PluginName
+     Загрузить определённый, выгруженный плагин.
+     Пример: /dipm load DI.RPChat
