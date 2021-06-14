@@ -1,3 +1,6 @@
+# _Разрешения (Permissions)_
+* DI.Blowout
+
 # _Вызов команды_
 * /blowout
 
