@@ -1,4 +1,4 @@
-# _Разрешение (Permissions)_
+# _Разрешение (Permission)_
 * DI.Blowout
 
 # _Вызов команды_
