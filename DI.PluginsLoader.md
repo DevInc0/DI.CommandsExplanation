@@ -1,4 +1,4 @@
-# _Разрешения (Permissions)_
+# _Разрешение (Permission)_
 * DI.PluginsManager
 
 # _Вызов команды_
